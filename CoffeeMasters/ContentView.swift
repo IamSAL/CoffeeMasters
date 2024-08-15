@@ -8,17 +8,14 @@
 import SwiftUI
 
 struct ContentView: View {
+  
+    
     var body: some View {
-        VStack {
-            Image(systemName: "globe")
-                .imageScale(.large)
-                .foregroundStyle(.tint)
-            Text("Hello, world!")
-        }
-        .padding()
+        Offer(title: "Chaar", description: "Bishal offers")
     }
 }
 
+
 #Preview {
-    ContentView()
+    ContentView().preferredColorScheme(/*@START_MENU_TOKEN@*/.dark/*@END_MENU_TOKEN@*/)
 }
