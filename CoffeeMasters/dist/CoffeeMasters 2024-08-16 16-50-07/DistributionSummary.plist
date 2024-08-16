@@ -1,0 +1,55 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>CoffeeMasters.ipa</key>
+	<array>
+		<dict>
+			<key>architectures</key>
+			<array>
+				<string>arm64</string>
+			</array>
+			<key>buildNumber</key>
+			<string>1</string>
+			<key>certificate</key>
+			<dict>
+				<key>SHA1</key>
+				<string>A62EE876FA1721749DB8CB5A43142BF271B6B8E8</string>
+				<key>dateExpires</key>
+				<string>5/2/25</string>
+				<key>type</key>
+				<string>Apple Distribution</string>
+			</dict>
+			<key>entitlements</key>
+			<dict>
+				<key>application-identifier</key>
+				<string>2UZAVNXXC5.com.sk-salman.CoffeeMasters</string>
+				<key>com.apple.developer.team-identifier</key>
+				<string>2UZAVNXXC5</string>
+				<key>get-task-allow</key>
+				<false/>
+			</dict>
+			<key>name</key>
+			<string>CoffeeMasters.app</string>
+			<key>profile</key>
+			<dict>
+				<key>UUID</key>
+				<string>6460963a-33e1-4c16-a8e0-dbbb8bd79b9d</string>
+				<key>dateExpires</key>
+				<string>5/2/25</string>
+				<key>name</key>
+				<string>iOS Team Ad Hoc Provisioning Profile: com.sk-salman.CoffeeMasters</string>
+			</dict>
+			<key>team</key>
+			<dict>
+				<key>id</key>
+				<string>2UZAVNXXC5</string>
+				<key>name</key>
+				<string>Minaoar Hossain  Tanzil</string>
+			</dict>
+			<key>versionNumber</key>
+			<string>1.0</string>
+		</dict>
+	</array>
+</dict>
+</plist>

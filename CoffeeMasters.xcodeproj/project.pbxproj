@@ -7,20 +7,61 @@
 	objects = {
 
 /* Begin PBXBuildFile section */
+		224BEBEE2C6F6E0E00ED74CB /* LikesManager.swift in Sources */ = {isa = PBXBuildFile; fileRef = 224BEBED2C6F6E0E00ED74CB /* LikesManager.swift */; };
+		224BEBF02C6F6ECB00ED74CB /* LikeButton.swift in Sources */ = {isa = PBXBuildFile; fileRef = 224BEBEF2C6F6ECB00ED74CB /* LikeButton.swift */; };
 		227C416E2C6CAE430082A301 /* CoffeeMastersApp.swift in Sources */ = {isa = PBXBuildFile; fileRef = 227C416D2C6CAE430082A301 /* CoffeeMastersApp.swift */; };
 		227C41702C6CAE430082A301 /* ContentView.swift in Sources */ = {isa = PBXBuildFile; fileRef = 227C416F2C6CAE430082A301 /* ContentView.swift */; };
 		227C41722C6CAE430082A301 /* Assets.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = 227C41712C6CAE430082A301 /* Assets.xcassets */; };
 		227C41752C6CAE430082A301 /* Preview Assets.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = 227C41742C6CAE430082A301 /* Preview Assets.xcassets */; };
 		227C417C2C6DCAE10082A301 /* OfferView.swift in Sources */ = {isa = PBXBuildFile; fileRef = 227C417B2C6DCAE10082A301 /* OfferView.swift */; };
+		227C417E2C6DD9AE0082A301 /* OffersPage.swift in Sources */ = {isa = PBXBuildFile; fileRef = 227C417D2C6DD9AE0082A301 /* OffersPage.swift */; };
+		227C41822C6DF7100082A301 /* MenuPage.swift in Sources */ = {isa = PBXBuildFile; fileRef = 227C41812C6DF7100082A301 /* MenuPage.swift */; };
+		227C41842C6DF7180082A301 /* CartPage.swift in Sources */ = {isa = PBXBuildFile; fileRef = 227C41832C6DF7180082A301 /* CartPage.swift */; };
+		227C41862C6DF7220082A301 /* InfoPage.swift in Sources */ = {isa = PBXBuildFile; fileRef = 227C41852C6DF7220082A301 /* InfoPage.swift */; };
+		227C41882C6DF7CB0082A301 /* ProductItem.swift in Sources */ = {isa = PBXBuildFile; fileRef = 227C41872C6DF7CB0082A301 /* ProductItem.swift */; };
+		227C418A2C6DF9EE0082A301 /* Details.swift in Sources */ = {isa = PBXBuildFile; fileRef = 227C41892C6DF9EE0082A301 /* Details.swift */; };
+		227C418D2C6E03200082A301 /* Category.swift in Sources */ = {isa = PBXBuildFile; fileRef = 227C418C2C6E03200082A301 /* Category.swift */; };
+		227C418F2C6E03320082A301 /* Product.swift in Sources */ = {isa = PBXBuildFile; fileRef = 227C418E2C6E03320082A301 /* Product.swift */; };
+		227C41912C6E081A0082A301 /* MenuManager.swift in Sources */ = {isa = PBXBuildFile; fileRef = 227C41902C6E081A0082A301 /* MenuManager.swift */; };
+		227C41932C6E08320082A301 /* CartManager.swift in Sources */ = {isa = PBXBuildFile; fileRef = 227C41922C6E08310082A301 /* CartManager.swift */; };
+		227C41952C6E0BCB0082A301 /* OrderItem.swift in Sources */ = {isa = PBXBuildFile; fileRef = 227C41942C6E0BCB0082A301 /* OrderItem.swift */; };
+		227C41982C6EFFA60082A301 /* Alamofire in Frameworks */ = {isa = PBXBuildFile; productRef = 227C41972C6EFFA60082A301 /* Alamofire */; };
 /* End PBXBuildFile section */
 
+/* Begin PBXCopyFilesBuildPhase section */
+		224BEBEC2C6F65E200ED74CB /* Embed Frameworks */ = {
+			isa = PBXCopyFilesBuildPhase;
+			buildActionMask = 2147483647;
+			dstPath = "";
+			dstSubfolderSpec = 10;
+			files = (
+			);
+			name = "Embed Frameworks";
+			runOnlyForDeploymentPostprocessing = 0;
+		};
+/* End PBXCopyFilesBuildPhase section */
+
 /* Begin PBXFileReference section */
+		224BEBEA2C6F649800ED74CB /* Info.plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist; path = Info.plist; sourceTree = "<group>"; };
+		224BEBED2C6F6E0E00ED74CB /* LikesManager.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = LikesManager.swift; sourceTree = "<group>"; };
+		224BEBEF2C6F6ECB00ED74CB /* LikeButton.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = LikeButton.swift; sourceTree = "<group>"; };
 		227C416A2C6CAE430082A301 /* CoffeeMasters.app */ = {isa = PBXFileReference; explicitFileType = wrapper.application; includeInIndex = 0; path = CoffeeMasters.app; sourceTree = BUILT_PRODUCTS_DIR; };
 		227C416D2C6CAE430082A301 /* CoffeeMastersApp.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = CoffeeMastersApp.swift; sourceTree = "<group>"; };
 		227C416F2C6CAE430082A301 /* ContentView.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = ContentView.swift; sourceTree = "<group>"; };
 		227C41712C6CAE430082A301 /* Assets.xcassets */ = {isa = PBXFileReference; lastKnownFileType = folder.assetcatalog; path = Assets.xcassets; sourceTree = "<group>"; };
 		227C41742C6CAE430082A301 /* Preview Assets.xcassets */ = {isa = PBXFileReference; lastKnownFileType = folder.assetcatalog; path = "Preview Assets.xcassets"; sourceTree = "<group>"; };
 		227C417B2C6DCAE10082A301 /* OfferView.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = OfferView.swift; sourceTree = "<group>"; };
+		227C417D2C6DD9AE0082A301 /* OffersPage.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = OffersPage.swift; sourceTree = "<group>"; };
+		227C41812C6DF7100082A301 /* MenuPage.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = MenuPage.swift; sourceTree = "<group>"; };
+		227C41832C6DF7180082A301 /* CartPage.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = CartPage.swift; sourceTree = "<group>"; };
+		227C41852C6DF7220082A301 /* InfoPage.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = InfoPage.swift; sourceTree = "<group>"; };
+		227C41872C6DF7CB0082A301 /* ProductItem.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = ProductItem.swift; sourceTree = "<group>"; };
+		227C41892C6DF9EE0082A301 /* Details.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = Details.swift; sourceTree = "<group>"; };
+		227C418C2C6E03200082A301 /* Category.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = Category.swift; sourceTree = "<group>"; };
+		227C418E2C6E03320082A301 /* Product.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = Product.swift; sourceTree = "<group>"; };
+		227C41902C6E081A0082A301 /* MenuManager.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = MenuManager.swift; sourceTree = "<group>"; };
+		227C41922C6E08310082A301 /* CartManager.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = CartManager.swift; sourceTree = "<group>"; };
+		227C41942C6E0BCB0082A301 /* OrderItem.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = OrderItem.swift; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -28,6 +69,7 @@
 			isa = PBXFrameworksBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
+				227C41982C6EFFA60082A301 /* Alamofire in Frameworks */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
@@ -53,8 +95,11 @@
 		227C416C2C6CAE430082A301 /* CoffeeMasters */ = {
 			isa = PBXGroup;
 			children = (
+				224BEBEA2C6F649800ED74CB /* Info.plist */,
+				227C418B2C6E03060082A301 /* Model */,
+				227C41802C6DF6E90082A301 /* Page Views */,
+				227C417F2C6DF6DC0082A301 /* Views */,
 				227C416D2C6CAE430082A301 /* CoffeeMastersApp.swift */,
-				227C417B2C6DCAE10082A301 /* OfferView.swift */,
 				227C416F2C6CAE430082A301 /* ContentView.swift */,
 				227C41712C6CAE430082A301 /* Assets.xcassets */,
 				227C41732C6CAE430082A301 /* Preview Content */,
@@ -70,6 +115,41 @@
 			path = "Preview Content";
 			sourceTree = "<group>";
 		};
+		227C417F2C6DF6DC0082A301 /* Views */ = {
+			isa = PBXGroup;
+			children = (
+				227C417B2C6DCAE10082A301 /* OfferView.swift */,
+				227C41872C6DF7CB0082A301 /* ProductItem.swift */,
+				227C41942C6E0BCB0082A301 /* OrderItem.swift */,
+				224BEBEF2C6F6ECB00ED74CB /* LikeButton.swift */,
+			);
+			path = Views;
+			sourceTree = "<group>";
+		};
+		227C41802C6DF6E90082A301 /* Page Views */ = {
+			isa = PBXGroup;
+			children = (
+				227C417D2C6DD9AE0082A301 /* OffersPage.swift */,
+				227C41812C6DF7100082A301 /* MenuPage.swift */,
+				227C41832C6DF7180082A301 /* CartPage.swift */,
+				227C41852C6DF7220082A301 /* InfoPage.swift */,
+				227C41892C6DF9EE0082A301 /* Details.swift */,
+			);
+			path = "Page Views";
+			sourceTree = "<group>";
+		};
+		227C418B2C6E03060082A301 /* Model */ = {
+			isa = PBXGroup;
+			children = (
+				227C418C2C6E03200082A301 /* Category.swift */,
+				227C418E2C6E03320082A301 /* Product.swift */,
+				227C41902C6E081A0082A301 /* MenuManager.swift */,
+				227C41922C6E08310082A301 /* CartManager.swift */,
+				224BEBED2C6F6E0E00ED74CB /* LikesManager.swift */,
+			);
+			path = Model;
+			sourceTree = "<group>";
+		};
 /* End PBXGroup section */
 
 /* Begin PBXNativeTarget section */
@@ -80,12 +160,16 @@
 				227C41662C6CAE430082A301 /* Sources */,
 				227C41672C6CAE430082A301 /* Frameworks */,
 				227C41682C6CAE430082A301 /* Resources */,
+				224BEBEC2C6F65E200ED74CB /* Embed Frameworks */,
 			);
 			buildRules = (
 			);
 			dependencies = (
 			);
 			name = CoffeeMasters;
+			packageProductDependencies = (
+				227C41972C6EFFA60082A301 /* Alamofire */,
+			);
 			productName = CoffeeMasters;
 			productReference = 227C416A2C6CAE430082A301 /* CoffeeMasters.app */;
 			productType = "com.apple.product-type.application";
@@ -114,6 +198,9 @@
 				Base,
 			);
 			mainGroup = 227C41612C6CAE420082A301;
+			packageReferences = (
+				227C41962C6EFFA60082A301 /* XCRemoteSwiftPackageReference "Alamofire" */,
+			);
 			productRefGroup = 227C416B2C6CAE430082A301 /* Products */;
 			projectDirPath = "";
 			projectRoot = "";
@@ -140,9 +227,22 @@
 			isa = PBXSourcesBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
+				227C41912C6E081A0082A301 /* MenuManager.swift in Sources */,
+				227C41932C6E08320082A301 /* CartManager.swift in Sources */,
 				227C41702C6CAE430082A301 /* ContentView.swift in Sources */,
+				227C418D2C6E03200082A301 /* Category.swift in Sources */,
+				227C417E2C6DD9AE0082A301 /* OffersPage.swift in Sources */,
+				227C41822C6DF7100082A301 /* MenuPage.swift in Sources */,
 				227C416E2C6CAE430082A301 /* CoffeeMastersApp.swift in Sources */,
+				227C418F2C6E03320082A301 /* Product.swift in Sources */,
+				227C41882C6DF7CB0082A301 /* ProductItem.swift in Sources */,
+				227C41952C6E0BCB0082A301 /* OrderItem.swift in Sources */,
+				227C418A2C6DF9EE0082A301 /* Details.swift in Sources */,
+				227C41842C6DF7180082A301 /* CartPage.swift in Sources */,
+				224BEBF02C6F6ECB00ED74CB /* LikeButton.swift in Sources */,
 				227C417C2C6DCAE10082A301 /* OfferView.swift in Sources */,
+				224BEBEE2C6F6E0E00ED74CB /* LikesManager.swift in Sources */,
+				227C41862C6DF7220082A301 /* InfoPage.swift in Sources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
@@ -280,9 +380,9 @@
 				DEVELOPMENT_TEAM = 2UZAVNXXC5;
 				ENABLE_PREVIEWS = YES;
 				GENERATE_INFOPLIST_FILE = YES;
+				INFOPLIST_FILE = CoffeeMasters/Info.plist;
 				INFOPLIST_KEY_UIApplicationSceneManifest_Generation = YES;
 				INFOPLIST_KEY_UIApplicationSupportsIndirectInputEvents = YES;
-				INFOPLIST_KEY_UILaunchScreen_Generation = YES;
 				INFOPLIST_KEY_UIStatusBarStyle = "";
 				INFOPLIST_KEY_UISupportedInterfaceOrientations_iPad = "UIInterfaceOrientationPortrait UIInterfaceOrientationPortraitUpsideDown UIInterfaceOrientationLandscapeLeft UIInterfaceOrientationLandscapeRight";
 				INFOPLIST_KEY_UISupportedInterfaceOrientations_iPhone = "UIInterfaceOrientationPortrait UIInterfaceOrientationLandscapeLeft UIInterfaceOrientationLandscapeRight";
@@ -313,9 +413,9 @@
 				DEVELOPMENT_TEAM = 2UZAVNXXC5;
 				ENABLE_PREVIEWS = YES;
 				GENERATE_INFOPLIST_FILE = YES;
+				INFOPLIST_FILE = CoffeeMasters/Info.plist;
 				INFOPLIST_KEY_UIApplicationSceneManifest_Generation = YES;
 				INFOPLIST_KEY_UIApplicationSupportsIndirectInputEvents = YES;
-				INFOPLIST_KEY_UILaunchScreen_Generation = YES;
 				INFOPLIST_KEY_UIStatusBarStyle = "";
 				INFOPLIST_KEY_UISupportedInterfaceOrientations_iPad = "UIInterfaceOrientationPortrait UIInterfaceOrientationPortraitUpsideDown UIInterfaceOrientationLandscapeLeft UIInterfaceOrientationLandscapeRight";
 				INFOPLIST_KEY_UISupportedInterfaceOrientations_iPhone = "UIInterfaceOrientationPortrait UIInterfaceOrientationLandscapeLeft UIInterfaceOrientationLandscapeRight";
@@ -356,6 +456,25 @@
 			defaultConfigurationName = Release;
 		};
 /* End XCConfigurationList section */
+
+/* Begin XCRemoteSwiftPackageReference section */
+		227C41962C6EFFA60082A301 /* XCRemoteSwiftPackageReference "Alamofire" */ = {
+			isa = XCRemoteSwiftPackageReference;
+			repositoryURL = "https://github.com/Alamofire/Alamofire.git";
+			requirement = {
+				kind = upToNextMajorVersion;
+				minimumVersion = 5.9.1;
+			};
+		};
+/* End XCRemoteSwiftPackageReference section */
+
+/* Begin XCSwiftPackageProductDependency section */
+		227C41972C6EFFA60082A301 /* Alamofire */ = {
+			isa = XCSwiftPackageProductDependency;
+			package = 227C41962C6EFFA60082A301 /* XCRemoteSwiftPackageReference "Alamofire" */;
+			productName = Alamofire;
+		};
+/* End XCSwiftPackageProductDependency section */
 	};
 	rootObject = 227C41622C6CAE420082A301 /* Project object */;
 }

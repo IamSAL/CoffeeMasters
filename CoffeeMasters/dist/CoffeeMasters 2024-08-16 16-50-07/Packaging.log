@@ -1,0 +1,136 @@
+2024-08-16 10:49:39 +0000  Initial pipeline context: <IDEDistributionProcessingPipelineContext: 0x2a8510490; archive(resolved)="<IDEArchive: 0x6000135bd8c0>", distributionTask(resolved)="2", distributionDestination(resolved)="1", distributionMethod(resolved)="<IDEDistributionMethodiOSAdHoc: 0x6000093fd210>", team(resolved)="<IDEProvisioningDisambiguatableBasicTeam: 0x6000044ca340; teamID='2UZAVNXXC5', teamName='Minaoar Hossain  Tanzil', teamType='Individual', username='ksl_dev@konasl.com', isFreeProvisioningTeam='0'>">
+	Chain (16, self inclusive):
+	<IDEDistributionProcessingPipelineContext: 0x2a8510490; archive = "<IDEArchive: 0x6000135bd8c0>", distributionMethod="<IDEDistributionMethodiOSAdHoc: 0x6000093fd210>", team="<IDEProvisioningDisambiguatableBasicTeam: 0x6000044ca340; teamID='2UZAVNXXC5', teamName='Minaoar Hossain  Tanzil', teamType='Individual', username='ksl_dev@konasl.com', isFreeProvisioningTeam='0'>">
+	<IDEDistributionProcessingPipelineContext: 0x2b3bb3cb0; archive = "<IDEArchive: 0x6000135bd8c0>", distributionMethod="<IDEDistributionMethodiOSAdHoc: 0x6000093fd210>", team="<IDEProvisioningDisambiguatableBasicTeam: 0x6000044ca340; teamID='2UZAVNXXC5', teamName='Minaoar Hossain  Tanzil', teamType='Individual', username='ksl_dev@konasl.com', isFreeProvisioningTeam='0'>">
+	<IDEDistributionContext: 0x2d0230350; archive = "<IDEArchive: 0x6000135bd8c0>", distributionMethod="<IDEDistributionMethodiOSAdHoc: 0x6000093fd210>", team="<IDEProvisioningDisambiguatableBasicTeam: 0x6000044ca340; teamID='2UZAVNXXC5', teamName='Minaoar Hossain  Tanzil', teamType='Individual', username='ksl_dev@konasl.com', isFreeProvisioningTeam='0'>">
+	<IDEDistributionContext: 0x2caec2a00; archive = "<IDEArchive: 0x6000135bd8c0>", distributionMethod="<IDEDistributionMethodiOSAdHoc: 0x6000093fd210>", team="<IDEProvisioningDisambiguatableBasicTeam: 0x6000044ca340; teamID='2UZAVNXXC5', teamName='Minaoar Hossain  Tanzil', teamType='Individual', username='ksl_dev@konasl.com', isFreeProvisioningTeam='0'>">
+	<IDEDistributionContext: 0x29c462140; archive = "<IDEArchive: 0x6000135bd8c0>", distributionMethod="<IDEDistributionMethodiOSAdHoc: 0x6000093fd210>", team="<IDEProvisioningDisambiguatableBasicTeam: 0x6000044ca340; teamID='2UZAVNXXC5', teamName='Minaoar Hossain  Tanzil', teamType='Individual', username='ksl_dev@konasl.com', isFreeProvisioningTeam='0'>">
+	<IDEDistributionContext: 0x2caedd330; archive = "<IDEArchive: 0x6000135bd8c0>", distributionMethod="<IDEDistributionMethodiOSAdHoc: 0x6000093fd210>", team="<IDEProvisioningDisambiguatableBasicTeam: 0x6000044ca340; teamID='2UZAVNXXC5', teamName='Minaoar Hossain  Tanzil', teamType='Individual', username='ksl_dev@konasl.com', isFreeProvisioningTeam='0'>">
+	<IDEDistributionContext: 0x29c5d6740; archive = "<IDEArchive: 0x6000135bd8c0>", distributionMethod="<IDEDistributionMethodiOSAdHoc: 0x6000093fd210>", team="<IDEProvisioningDisambiguatableBasicTeam: 0x6000044ca340; teamID='2UZAVNXXC5', teamName='Minaoar Hossain  Tanzil', teamType='Individual', username='ksl_dev@konasl.com', isFreeProvisioningTeam='0'>">
+	<IDEDistributionContext: 0x29c52e5c0; archive = "<IDEArchive: 0x6000135bd8c0>", distributionMethod="<IDEDistributionMethodiOSAdHoc: 0x6000093fd210>", team="<IDEProvisioningDisambiguatableBasicTeam: 0x6000044ca340; teamID='2UZAVNXXC5', teamName='Minaoar Hossain  Tanzil', teamType='Individual', username='ksl_dev@konasl.com', isFreeProvisioningTeam='0'>">
+	<IDEDistributionContext: 0x2c836b330; archive = "<IDEArchive: 0x6000135bd8c0>", distributionMethod="<IDEDistributionMethodiOSAdHoc: 0x6000093fd210>", team="<IDEProvisioningDisambiguatableBasicTeam: 0x6000044ca340; teamID='2UZAVNXXC5', teamName='Minaoar Hossain  Tanzil', teamType='Individual', username='ksl_dev@konasl.com', isFreeProvisioningTeam='0'>">
+	<IDEDistributionContext: 0x2c200c010; archive = "<IDEArchive: 0x6000135bd8c0>", distributionMethod="<IDEDistributionMethodiOSAdHoc: 0x6000093fd210>", team="(null)">
+	<IDEDistributionContext: 0x2d0e109c0; archive = "<IDEArchive: 0x6000135bd8c0>", distributionMethod="<IDEDistributionMethodiOSAdHoc: 0x6000093fd210>", team="(null)">
+	<IDEDistributionContext: 0x2c20d5890; archive = "<IDEArchive: 0x6000135bd8c0>", distributionMethod="<IDEDistributionMethodiOSAdHoc: 0x6000093fd210>", team="(null)">
+	<IDEDistributionContext: 0x2c7e22350; archive = "<IDEArchive: 0x6000135bd8c0>", distributionMethod="<IDEDistributionMethodiOSAdHoc: 0x6000093fd210>", team="(null)">
+	<IDEDistributionContext: 0x111b1a4c0; archive = "<IDEArchive: 0x6000135bd8c0>", distributionMethod="(null)", team="(null)">
+	<IDEDistributionContext: 0x2b3bb9800; archive = "<IDEArchive: 0x6000135bd8c0>", distributionMethod="(null)", team="(null)">
+	<IDEDistributionContext: 0x2d02236d0; archive = "<IDEArchive: 0x6000135bd8c0>", distributionMethod="(null)", team="(null)">
+</IDEDistributionProcessingPipelineContext: 0x2a8510490>
+2024-08-16 10:49:39 +0000  Processing step: IDEDistributionCreateDestRootStep
+2024-08-16 10:49:39 +0000  Processing step: IDEDistributionCopyItemStep
+2024-08-16 10:49:39 +0000  Running /usr/bin/ditto '-V' '/Users/salman/Library/Developer/Xcode/Archives/2024-08-16/CoffeeMasters 8-16-24, 4.48 PM.xcarchive/Products/Applications/CoffeeMasters.app' '/var/folders/hj/5xsbt6r928ndt74gxv8j4cx00000gp/T/XcodeDistPipeline.~~~Y7eNVw/Root/Payload/CoffeeMasters.app'
+2024-08-16 10:49:39 +0000  >>> Copying /Users/salman/Library/Developer/Xcode/Archives/2024-08-16/CoffeeMasters 8-16-24, 4.48 PM.xcarchive/Products/Applications/CoffeeMasters.app 
+2024-08-16 10:49:39 +0000  copying file ./_CodeSignature/CodeResources ... 
+2024-08-16 10:49:39 +0000  3317 bytes for ./_CodeSignature/CodeResources
+2024-08-16 10:49:39 +0000  copying file ./CoffeeMasters ... 
+2024-08-16 10:49:39 +0000  1703888 bytes for ./CoffeeMasters
+2024-08-16 10:49:39 +0000  copying file ./AppIcon60x60@2x.png ... 
+2024-08-16 10:49:39 +0000  5049 bytes for ./AppIcon60x60@2x.png
+copying file ./Assets.car ... 
+2024-08-16 10:49:39 +0000  620863 bytes for ./Assets.car
+2024-08-16 10:49:39 +0000  copying file ./AppIcon76x76@2x~ipad.png ... 
+2024-08-16 10:49:39 +0000  6201 bytes for ./AppIcon76x76@2x~ipad.png
+2024-08-16 10:49:39 +0000  copying file ./embedded.mobileprovision ... 
+2024-08-16 10:49:39 +0000  36113 bytes for ./embedded.mobileprovision
+2024-08-16 10:49:39 +0000  copying file ./Info.plist ... 
+2024-08-16 10:49:39 +0000  1550 bytes for ./Info.plist
+2024-08-16 10:49:39 +0000  copying file ./Alamofire_Alamofire.bundle/PrivacyInfo.xcprivacy ... 
+2024-08-16 10:49:39 +0000  600 bytes for ./Alamofire_Alamofire.bundle/PrivacyInfo.xcprivacy
+2024-08-16 10:49:39 +0000  copying file ./Alamofire_Alamofire.bundle/Info.plist ... 
+2024-08-16 10:49:39 +0000  684 bytes for ./Alamofire_Alamofire.bundle/Info.plist
+2024-08-16 10:49:39 +0000  copying file ./PkgInfo ... 
+2024-08-16 10:49:39 +0000  8 bytes for ./PkgInfo
+2024-08-16 10:49:39 +0000  /usr/bin/ditto exited with 0
+2024-08-16 10:49:39 +0000  Processing step: IDEDistributionEmbedProfileStep
+2024-08-16 10:49:39 +0000  Processing step: IDEDistributionInfoPlistStep
+2024-08-16 10:49:39 +0000  Skipping step: IDEDistributionInfoPlistStep because it said so
+2024-08-16 10:49:39 +0000  Processing step: IDEDistributionAppThinningPlistStep
+2024-08-16 10:49:39 +0000  Skipping step: IDEDistributionAppThinningPlistStep because it said so
+2024-08-16 10:49:39 +0000  Processing step: IDEDistributionCompileBitcodeStep
+2024-08-16 10:49:39 +0000  Skipping step: IDEDistributionCompileBitcodeStep because it said so
+2024-08-16 10:49:39 +0000  Processing step: IDEDistributionCodeSlimmingStep
+2024-08-16 10:49:39 +0000  Processing step: IDEDistributionCopyBCSymbolMapsStep
+2024-08-16 10:49:39 +0000  Skipping step: IDEDistributionCopyBCSymbolMapsStep because it said so
+2024-08-16 10:49:39 +0000  Processing step: IDEDistributionSymbolsStep
+2024-08-16 10:49:39 +0000  Skipping step: IDEDistributionSymbolsStep because it said so
+2024-08-16 10:49:39 +0000  Processing step: IDEDistributionAppThinningStep
+2024-08-16 10:49:39 +0000  Skipping step: IDEDistributionAppThinningStep because it said so
+2024-08-16 10:49:39 +0000  Processing step: IDEDistributionArchThinningStep
+2024-08-16 10:49:39 +0000  Item /Users/salman/Library/Developer/Xcode/Archives/2024-08-16/CoffeeMasters 8-16-24, 4.48 PM.xcarchive/Products/Applications/CoffeeMasters.app doesn't have the entitlement com.apple.developer.web-browser-engine.host enabled, returning ["arm64e"]
+2024-08-16 10:49:39 +0000  Archs to thin for item /Users/salman/Library/Developer/Xcode/Archives/2024-08-16/CoffeeMasters 8-16-24, 4.48 PM.xcarchive/Products/Applications/CoffeeMasters.app are ["arm64e"]
+2024-08-16 10:49:39 +0000  Running /Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/lipo '/var/folders/hj/5xsbt6r928ndt74gxv8j4cx00000gp/T/XcodeDistPipeline.~~~Y7eNVw/Root/Payload/CoffeeMasters.app/CoffeeMasters' '-verify_arch' 'arm64e'
+2024-08-16 10:49:39 +0000  /Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/lipo exited with 1
+2024-08-16 10:49:39 +0000  Skipping architecture thinning for item "CoffeeMasters" because arch "arm64e" wasn't found
+2024-08-16 10:49:39 +0000  Processing step: IDEDistributionODRStep
+2024-08-16 10:49:39 +0000  Processing step: IDEDistributionStripXattrsStep
+2024-08-16 10:49:39 +0000  Skipping stripping extended attributes because the codesign step will strip them.
+2024-08-16 10:49:39 +0000  Processing step: IDEDistributionCodesignStep
+2024-08-16 10:49:39 +0000  Entitlements for <IDEDistributionItem: 0x60001353c120; bundleID='com.sk-salman.CoffeeMasters', path='<DVTFilePath:0x600007c2e600:'/Users/salman/Library/Developer/Xcode/Archives/2024-08-16/CoffeeMasters 8-16-24, 4.48 PM.xcarchive/Products/Applications/CoffeeMasters.app'>', codeSigningInfo='<_DVTCodeSigningInformation_Path: 0x60001b16f0c0; isSigned='1', isAdHocSigned='0', signingCertificate='<DVTSigningCertificate: 0x6000064fdc80; name='Apple Development: Minaoar Hossain  Tanzil (355T28Z7G4)', hash='A16C315D335589CB3900967787B77A45271A873F', serialNumber='59EC4F4BC3AC9D5542BF6655DC0CD231', certificateKinds='(
+    "1.2.840.113635.100.6.1.12",
+    "1.2.840.113635.100.6.1.2"
+), issueDate='2024-04-29 09:20:42 +0000''>', entitlements='{
+    "application-identifier" = "2UZAVNXXC5.com.sk-salman.CoffeeMasters";
+    "com.apple.developer.team-identifier" = 2UZAVNXXC5;
+    "get-task-allow" = 1;
+}', teamID='2UZAVNXXC5', identifier='com.sk-salman.CoffeeMasters', executablePath='<DVTFilePath:0x600007c2e780:'/Users/salman/Library/Developer/Xcode/Archives/2024-08-16/CoffeeMasters 8-16-24, 4.48 PM.xcarchive/Products/Applications/CoffeeMasters.app/CoffeeMasters'>', hardenedRuntime='0'>'>: {
+    "application-identifier" = "2UZAVNXXC5.com.sk-salman.CoffeeMasters";
+    "com.apple.developer.team-identifier" = 2UZAVNXXC5;
+    "get-task-allow" = 0;
+}
+2024-08-16 10:49:39 +0000  Associated App Clip Identifiers Filter: Skipping because "com.apple.developer.associated-appclip-app-identifiers" is not present
+2024-08-16 10:49:39 +0000  Entitlements for <IDEDistributionItem: 0x60001353c120; bundleID='com.sk-salman.CoffeeMasters', path='<DVTFilePath:0x600007c2e600:'/Users/salman/Library/Developer/Xcode/Archives/2024-08-16/CoffeeMasters 8-16-24, 4.48 PM.xcarchive/Products/Applications/CoffeeMasters.app'>', codeSigningInfo='<_DVTCodeSigningInformation_Path: 0x60001b16f0c0; isSigned='1', isAdHocSigned='0', signingCertificate='<DVTSigningCertificate: 0x6000124a52c0; name='Apple Development: Minaoar Hossain  Tanzil (355T28Z7G4)', hash='A16C315D335589CB3900967787B77A45271A873F', serialNumber='59EC4F4BC3AC9D5542BF6655DC0CD231', certificateKinds='(
+    "1.2.840.113635.100.6.1.12",
+    "1.2.840.113635.100.6.1.2"
+), issueDate='2024-04-29 09:20:42 +0000''>', entitlements='{
+    "application-identifier" = "2UZAVNXXC5.com.sk-salman.CoffeeMasters";
+    "com.apple.developer.team-identifier" = 2UZAVNXXC5;
+    "get-task-allow" = 1;
+}', teamID='2UZAVNXXC5', identifier='com.sk-salman.CoffeeMasters', executablePath='<DVTFilePath:0x600007c2e780:'/Users/salman/Library/Developer/Xcode/Archives/2024-08-16/CoffeeMasters 8-16-24, 4.48 PM.xcarchive/Products/Applications/CoffeeMasters.app/CoffeeMasters'>', hardenedRuntime='0'>'> are: {
+    "application-identifier" = "2UZAVNXXC5.com.sk-salman.CoffeeMasters";
+    "com.apple.developer.team-identifier" = 2UZAVNXXC5;
+    "get-task-allow" = 0;
+}
+2024-08-16 10:49:39 +0000  Writing entitlements for <IDEDistributionItem: 0x60001353c120; bundleID='com.sk-salman.CoffeeMasters', path='<DVTFilePath:0x600007c2e600:'/Users/salman/Library/Developer/Xcode/Archives/2024-08-16/CoffeeMasters 8-16-24, 4.48 PM.xcarchive/Products/Applications/CoffeeMasters.app'>', codeSigningInfo='<_DVTCodeSigningInformation_Path: 0x60001b16f0c0; isSigned='1', isAdHocSigned='0', signingCertificate='<DVTSigningCertificate: 0x6000064fe040; name='Apple Development: Minaoar Hossain  Tanzil (355T28Z7G4)', hash='A16C315D335589CB3900967787B77A45271A873F', serialNumber='59EC4F4BC3AC9D5542BF6655DC0CD231', certificateKinds='(
+    "1.2.840.113635.100.6.1.12",
+    "1.2.840.113635.100.6.1.2"
+), issueDate='2024-04-29 09:20:42 +0000''>', entitlements='{
+    "application-identifier" = "2UZAVNXXC5.com.sk-salman.CoffeeMasters";
+    "com.apple.developer.team-identifier" = 2UZAVNXXC5;
+    "get-task-allow" = 1;
+}', teamID='2UZAVNXXC5', identifier='com.sk-salman.CoffeeMasters', executablePath='<DVTFilePath:0x600007c2e780:'/Users/salman/Library/Developer/Xcode/Archives/2024-08-16/CoffeeMasters 8-16-24, 4.48 PM.xcarchive/Products/Applications/CoffeeMasters.app/CoffeeMasters'>', hardenedRuntime='0'>'> to: /var/folders/hj/5xsbt6r928ndt74gxv8j4cx00000gp/T/XcodeDistPipeline.~~~Y7eNVw/entitlements~~~Mqe9NM
+2024-08-16 10:49:39 +0000  Running /usr/bin/codesign '-vvv' '--force' '--sign' 'A62EE876FA1721749DB8CB5A43142BF271B6B8E8' '--entitlements' '/var/folders/hj/5xsbt6r928ndt74gxv8j4cx00000gp/T/XcodeDistPipeline.~~~Y7eNVw/entitlements~~~Mqe9NM' '--generate-entitlement-der' '--strip-disallowed-xattrs' '--preserve-metadata=identifier,flags,runtime' '/var/folders/hj/5xsbt6r928ndt74gxv8j4cx00000gp/T/XcodeDistPipeline.~~~Y7eNVw/Root/Payload/CoffeeMasters.app'
+2024-08-16 10:49:39 +0000  /var/folders/hj/5xsbt6r928ndt74gxv8j4cx00000gp/T/XcodeDistPipeline.~~~Y7eNVw/Root/Payload/CoffeeMasters.app: replacing existing signature
+2024-08-16 10:49:40 +0000  /var/folders/hj/5xsbt6r928ndt74gxv8j4cx00000gp/T/XcodeDistPipeline.~~~Y7eNVw/Root/Payload/CoffeeMasters.app: signed app bundle with Mach-O thin (arm64) [com.sk-salman.CoffeeMasters]
+2024-08-16 10:49:40 +0000  /usr/bin/codesign exited with 0
+2024-08-16 10:49:40 +0000  Processing step: IDEDistributionZipODRItemStep
+2024-08-16 10:49:40 +0000  Skipping step: IDEDistributionZipODRItemStep because it said so
+2024-08-16 10:49:40 +0000  Processing step: IDEDistributionCreateIPAStep
+2024-08-16 10:49:40 +0000  Running /usr/bin/ditto '-V' '-c' '-k' '--norsrc' '/var/folders/hj/5xsbt6r928ndt74gxv8j4cx00000gp/T/XcodeDistPipeline.~~~Y7eNVw/Root' '/var/folders/hj/5xsbt6r928ndt74gxv8j4cx00000gp/T/XcodeDistPipeline.~~~Y7eNVw/Packages/CoffeeMasters.ipa'
+2024-08-16 10:49:40 +0000  >>> Copying /var/folders/hj/5xsbt6r928ndt74gxv8j4cx00000gp/T/XcodeDistPipeline.~~~Y7eNVw/Root 
+2024-08-16 10:49:40 +0000  copying file ./Payload/CoffeeMasters.app/_CodeSignature/CodeResources ... 
+2024-08-16 10:49:40 +0000  3317 bytes for ./Payload/CoffeeMasters.app/_CodeSignature/CodeResources
+2024-08-16 10:49:40 +0000  copying file ./Payload/CoffeeMasters.app/CoffeeMasters ... 
+2024-08-16 10:49:40 +0000  1703888 bytes for ./Payload/CoffeeMasters.app/CoffeeMasters
+copying file ./Payload/CoffeeMasters.app/AppIcon60x60@2x.png ... 
+2024-08-16 10:49:40 +0000  5049 bytes for ./Payload/CoffeeMasters.app/AppIcon60x60@2x.png
+copying file ./Payload/CoffeeMasters.app/Assets.car ... 
+2024-08-16 10:49:40 +0000  620863 bytes for ./Payload/CoffeeMasters.app/Assets.car
+copying file ./Payload/CoffeeMasters.app/AppIcon76x76@2x~ipad.png ... 
+2024-08-16 10:49:40 +0000  6201 bytes for ./Payload/CoffeeMasters.app/AppIcon76x76@2x~ipad.png
+copying file ./Payload/CoffeeMasters.app/embedded.mobileprovision ... 
+2024-08-16 10:49:40 +0000  25977 bytes for ./Payload/CoffeeMasters.app/embedded.mobileprovision
+copying file ./Payload/CoffeeMasters.app/Info.plist ... 
+2024-08-16 10:49:40 +0000  1550 bytes for ./Payload/CoffeeMasters.app/Info.plist
+copying file ./Payload/CoffeeMasters.app/Alamofire_Alamofire.bundle/PrivacyInfo.xcprivacy ... 
+2024-08-16 10:49:40 +0000  600 bytes for ./Payload/CoffeeMasters.app/Alamofire_Alamofire.bundle/PrivacyInfo.xcprivacy
+copying file ./Payload/CoffeeMasters.app/Alamofire_Alamofire.bundle/Info.plist ... 
+684 bytes for ./Payload/CoffeeMasters.app/Alamofire_Alamofire.bundle/Info.plist
+copying file ./Payload/CoffeeMasters.app/PkgInfo ... 
+2024-08-16 10:49:40 +0000  8 bytes for ./Payload/CoffeeMasters.app/PkgInfo
+2024-08-16 10:49:40 +0000  /usr/bin/ditto exited with 0
+2024-08-16 10:49:40 +0000  Processing step: IDEDistributionAppStoreInformationStep
+2024-08-16 10:49:40 +0000  Skipping step: IDEDistributionAppStoreInformationStep because it said so
+2024-08-16 10:49:40 +0000  Processing step: IDEDistributionGenerateProcessedDistributionItems
+2024-08-16 10:49:40 +0000  IDEDistributionItem init <DVTFilePath:0x60000bfe5180:'/var/folders/hj/5xsbt6r928ndt74gxv8j4cx00000gp/T/XcodeDistPipeline.~~~Y7eNVw/Root/Payload/CoffeeMasters.app'>
+2024-08-16 10:49:40 +0000  Processing step: IDEDistributionCreateManifestStep

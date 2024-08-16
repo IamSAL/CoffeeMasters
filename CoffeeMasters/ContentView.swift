@@ -9,13 +9,34 @@ import SwiftUI
 
 struct ContentView: View {
   
+    @EnvironmentObject var cartManager:CartManager
     
     var body: some View {
-        Offer(title: "Chaar", description: "Bishal offers")
+        TabView{
+            MenuPage().tabItem {
+                Image(systemName: "cup.and.saucer")
+                Text("Menu")
+            }
+            OffersPage().tabItem {
+                Image(systemName: "tag")
+                Text("Offers")
+            }
+            CartPage().tabItem {
+                Image(systemName: "cart")
+                Text("Orders")
+            }.badge(cartManager.count)
+            InfoPage().tabItem {
+                Image(systemName: "info")
+                Text("Info")
+            }
+        }
     }
 }
 
 
 #Preview {
-    ContentView().preferredColorScheme(/*@START_MENU_TOKEN@*/.dark/*@END_MENU_TOKEN@*/)
+    ContentView()
+        .environmentObject(MenuManager())
+        .environmentObject(CartManager())
+        .environmentObject(LikesManager())
 }
